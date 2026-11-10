@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2295A67F-9B63-4DEC-9A6E-D33D45471A76}|GerenciadorDeTarefas.UnitTests\\GerenciadorDeTarefas.UnitTests.csproj|c:\\users\\ester\\source\\repos\\gerenciadordetarefas.api\\gerenciadordetarefas.unittests\\gerenciadordetarefas.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2295A67F-9B63-4DEC-9A6E-D33D45471A76}|GerenciadorDeTarefas.UnitTests\\GerenciadorDeTarefas.UnitTests.csproj|solutionrelative:gerenciadordetarefas.unittests\\gerenciadordetarefas.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8798C1-8B41-4A87-AA97-03D5F4695BDD}|GerenciadorDeTarefas.Infraestructure\\GerenciadorDeTarefas.Infraestructure.csproj|c:\\users\\ester\\source\\repos\\gerenciadordetarefas.api\\gerenciadordetarefas.infraestructure\\gerenciadordetarefas.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC8798C1-8B41-4A87-AA97-03D5F4695BDD}|GerenciadorDeTarefas.Infraestructure\\GerenciadorDeTarefas.Infraestructure.csproj|solutionrelative:gerenciadordetarefas.infraestructure\\gerenciadordetarefas.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1595665-B25C-4580-8CBB-F1178C021702}|GerenciadorDeTarefas.Application\\GerenciadorDeTarefas.Application.csproj|c:\\users\\ester\\source\\repos\\gerenciadordetarefas.api\\gerenciadordetarefas.application\\gerenciadordetarefas.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1595665-B25C-4580-8CBB-F1178C021702}|GerenciadorDeTarefas.Application\\GerenciadorDeTarefas.Application.csproj|solutionrelative:gerenciadordetarefas.application\\gerenciadordetarefas.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DE0A53-A11B-4977-8CC7-21438A8DE414}|GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API.csproj|c:\\users\\ester\\source\\repos\\gerenciadordetarefas.api\\gerenciadordetarefas.api\\gerenciadordetarefas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71DE0A53-A11B-4977-8CC7-21438A8DE414}|GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API.csproj|solutionrelative:gerenciadordetarefas.api\\gerenciadordetarefas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C186AD51-F387-4EAE-A218-B8165EC304FF}|GerenciadorDeTarefas.Domain\\GerenciadorDeTarefas.Domain.csproj|c:\\users\\ester\\source\\repos\\gerenciadordetarefas.api\\gerenciadordetarefas.domain\\gerenciadordetarefas.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C186AD51-F387-4EAE-A218-B8165EC304FF}|GerenciadorDeTarefas.Domain\\GerenciadorDeTarefas.Domain.csproj|solutionrelative:gerenciadordetarefas.domain\\gerenciadordetarefas.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB03EF8-2465-419F-A701-7C6EB1F02FB7}|GerenciadorDeTarefas.IntegrationTests\\GerenciadorDeTarefas.IntegrationTests.csproj|c:\\users\\ester\\source\\repos\\gerenciadordetarefas.api\\gerenciadordetarefas.integrationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB03EF8-2465-419F-A701-7C6EB1F02FB7}|GerenciadorDeTarefas.IntegrationTests\\GerenciadorDeTarefas.IntegrationTests.csproj|solutionrelative:gerenciadordetarefas.integrationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2295A67F-9B63-4DEC-9A6E-D33D45471A76}|GerenciadorDeTarefas.UnitTests\\GerenciadorDeTarefas.UnitTests.csproj|c:\\users\\ester\\source\\repos\\gerenciadordetarefas.api\\gerenciadordetarefas.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2295A67F-9B63-4DEC-9A6E-D33D45471A76}|GerenciadorDeTarefas.UnitTests\\GerenciadorDeTarefas.UnitTests.csproj|solutionrelative:gerenciadordetarefas.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerenciadorDeTarefas.UnitTests",
+              "DocumentMoniker": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.UnitTests\\GerenciadorDeTarefas.UnitTests.csproj",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas.UnitTests\\GerenciadorDeTarefas.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.UnitTests\\GerenciadorDeTarefas.UnitTests.csproj",
+              "RelativeToolTip": "GerenciadorDeTarefas.UnitTests\\GerenciadorDeTarefas.UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T23:50:45.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.IntegrationTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas.IntegrationTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.IntegrationTests\\UnitTest1.cs",
+              "RelativeToolTip": "GerenciadorDeTarefas.IntegrationTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T23:50:35.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "GerenciadorDeTarefas.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T23:50:10.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GerenciadorDeTarefas.Domain",
+              "DocumentMoniker": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.Domain\\GerenciadorDeTarefas.Domain.csproj",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas.Domain\\GerenciadorDeTarefas.Domain.csproj",
+              "ToolTip": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.Domain\\GerenciadorDeTarefas.Domain.csproj",
+              "RelativeToolTip": "GerenciadorDeTarefas.Domain\\GerenciadorDeTarefas.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T23:25:41.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GerenciadorDeTarefas.Application",
+              "DocumentMoniker": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.Application\\GerenciadorDeTarefas.Application.csproj",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas.Application\\GerenciadorDeTarefas.Application.csproj",
+              "ToolTip": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.Application\\GerenciadorDeTarefas.Application.csproj",
+              "RelativeToolTip": "GerenciadorDeTarefas.Application\\GerenciadorDeTarefas.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T23:25:32.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GerenciadorDeTarefas.API",
+              "DocumentMoniker": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API.csproj",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API.csproj",
+              "ToolTip": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API.csproj",
+              "RelativeToolTip": "GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T23:24:55.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerenciadorDeTarefas.Infraestructure",
+              "DocumentMoniker": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.Infraestructure\\GerenciadorDeTarefas.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas.Infraestructure\\GerenciadorDeTarefas.Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\ester\\source\\repos\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.Infraestructure\\GerenciadorDeTarefas.Infraestructure.csproj",
+              "RelativeToolTip": "GerenciadorDeTarefas.Infraestructure\\GerenciadorDeTarefas.Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T23:21:49.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

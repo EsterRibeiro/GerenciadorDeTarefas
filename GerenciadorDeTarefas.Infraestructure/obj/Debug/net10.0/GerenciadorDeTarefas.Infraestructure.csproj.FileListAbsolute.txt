@@ -1,0 +1,13 @@
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\bin\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.deps.json
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\bin\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.dll
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\bin\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.pdb
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.AssemblyInfo.cs
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.dll
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\refint\GerenciadorDeTarefas.Infraestructure.dll
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\GerenciadorDeTarefas.Infraestructure.pdb
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\ref\GerenciadorDeTarefas.Infraestructure.dll
+C:\Users\ester\source\repos\GerenciadorDeTarefas.API\GerenciadorDeTarefas.Infraestructure\obj\Debug\net10.0\Gerencia.3CC7386D.Up2Date
